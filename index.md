@@ -3,21 +3,14 @@ title: Home
 layout: default
 ---
 
-# Bootstrap Workshop Template!
+# Intro to Web Archiving: Fight Link Rot and Preserve Your Citations
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+Web pages cited in your papers and used in research are in danger:
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+> "Over 50% of cited links in Supreme Court opinions no longer point to the intended page. Roughly 70% of cited links in academic legal journals and 20% of all science, technology and medicine articles suffer from link rot" (Perma.cc).
 
-*Add your workshop abstract here!*
-
-Write a workshop abstract here.
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
-
-*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
+Fight link rot by creating permanent archived records of web pages with Archive.org and Perma.cc. 
+This workshop will introduce the issues of link rot, web archiving services, and best practices for citing web pages in your articles.
 
 {% include toc.html %}
 
