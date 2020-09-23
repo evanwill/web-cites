@@ -40,3 +40,10 @@ a {
 }
 /* remove margin in alerts */
 .alert p:last-of-type { margin-bottom: 0; }
+
+/* block quotes */
+blockquote { 
+    padding: 15px;
+    border-left: gray solid 3px;
+    p:last-of-type { margin-bottom: 0; }
+}
