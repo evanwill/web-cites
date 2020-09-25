@@ -13,6 +13,8 @@ developed and maintained by the [Harvard Library Innovation Lab](http://lil.law.
 
 "Use it to preserve the online sources you cite and to make those records accessible to your readers."
 
+Similar to Internet Archive ( https://archive.org/web/ ) Perma lets anyone create archival links to add to their repository because if real people are interested in the content, it probably has more value than randomly crawled links--a form of curation. Additionally, Perma provides an interface to organize and annotate links you have created (unlike Internet Archive).
+
 - Sign up, https://perma.cc/sign-up 
     - individual account = 10 free links trial. Paid plans
     - Registrar sponsor = academic libraries and courts can sponsor accounts for unlimited usage
