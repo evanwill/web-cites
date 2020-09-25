@@ -44,6 +44,7 @@ a {
 /* block quotes */
 blockquote { 
     padding: 15px;
-    border-left: gray solid 3px;
+    border-left: #c0c0c1 solid 3px;
+    border-radius: 2px;
     p:last-of-type { margin-bottom: 0; }
 }
