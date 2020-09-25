@@ -8,6 +8,6 @@
     - "width" = will use Bootstrap sizing to set the % size, choose from "25", "50", "75", or "100" 
     - "float" = will use Bootstrap float utility to add float, choose from "left" or "right" 
 {%- endcomment -%}
-<div class="text-center">
+<div class="text-center mb-3">
 <a class="btn{% if include.size %} btn-{{ include.size }}{% endif %} btn-{{ include.color | default: 'secondary' }}{% if include.float %} float-{{ include.float }}{% endif %}{% if include.width %} w-{{ include.width }}{% endif %}" href="{{ include.link }}" target="_blank" rel="noopener" markdown="1">{{ include.text }}</a>
 </div>
