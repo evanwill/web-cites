@@ -27,7 +27,7 @@ As a solution, libraries have developed harvesting, storage, and access techniqu
 Preserving your web citations in a web archive avoids two main issues:
 
 1. Link Rot -- when a given link breaks, pointing to nothing or the wrong page.
-2. Reference Rot / Content Drift -- when content on page at a given link has changed, no longer matching the original citation. Perhaps a quote you cite is deleted
+2. Reference Rot / Content Drift -- when content on page at a given link has changed, no longer matching the original citation.
 
 Citation is intended to provide evidence of claims made in a paper attesting to the integrity of your research. 
 However, with live web content a quote you cite might be deleted, data you used might be altered, or a link redirected to a new (even malicious) location.

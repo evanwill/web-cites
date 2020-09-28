@@ -16,11 +16,6 @@ Citations in their documents, such as ["Regulation of Drones" (April 2016)](http
 
 ## Guidelines
 
-Keep in mind that many citation style guides are seriously out of date with modern scholarship methods and information sources, thus inadequately describe how to handle citing web resources.
-Few style guides mention the use of web archive links and some dictate not citing web pages at all (which seems a particularly lazy and risky practice).
-*IMO:* Rather than following the details of a citation style, it is better for ongoing scholarship to provide as much detail as possible for people to understand and find your evidence. 
-It is often helpful to provide an "accessed on" date so that people will know *when* you are citing.
-
 If you are citing a live website, include the full normal citation, but add the archive link at the end:
 
 > "Coronavirus Disease 2019 (COVID-19)." *University of Idaho*, 21 Sept. 2020, www.uidaho.edu/vandal-health-clinic/coronavirus (archived at: https://perma.cc/T8YP-BFC9 ).
@@ -35,3 +30,9 @@ Some style guides use "Retrieved from" to make this clear.
 > "Coronavirus Disease 2019 (COVID-19)." *University of Idaho*, 23 May 2020. *Internet Archive*, web.archive.org/web/20200515231836/https://www.uidaho.edu/vandal-health-clinic/coronavirus.
 >
 > Cieplak-Mayr von Baldegg, Kasia. "Inside the Internet Archive". *The Atlantic*, 7 May 2013. *Internet Archive*, web.archive.org/web/20160414123101/http://www.theatlantic.com/technology/archive/2013/05/inside-the-internet-archive/466068/.
+
+Keep in mind that many citation style guides are seriously out of date with modern scholarship methods and information sources, thus inadequately describe how to handle citing web resources.
+Few style guides mention the use of web archive links and some dictate not citing web pages at all (which seems a particularly lazy and risky practice).
+
+*IMO:* Rather than following the details of a citation style, it is better for ongoing scholarship to provide as much detail as possible for people to understand and find your evidence. 
+It is often helpful to provide an "accessed on" date so that people will know *when* you are citing.
