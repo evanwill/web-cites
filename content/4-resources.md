@@ -31,6 +31,7 @@ lazyload: true
 - [wget for web archiving](https://evanwill.github.io/_drafts/notes/wget-archives.html) (notes about commandline tool wget for capturing sites in WARC)
 - [oldweb.today](http://oldweb.today/) (surf web archives on emulated old web browsers)
 - [Memento](http://mementoweb.org/about/) (framework for linking multiple web archives, see [timetravel](http://timetravel.mementoweb.org/about/))
+- [Robustlinks](https://robustlinks.mementoweb.org/) (spec for extending hyperlinks with builtin archive links, and Robustify tool for creating them)
 
 ## Articles
 
