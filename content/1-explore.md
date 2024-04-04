@@ -14,6 +14,8 @@ Paste a link into the Wayback Machine to explore it's history.
     <figcaption class="figure-caption"><a href="https://archive.org/web/" class="btn btn-lg btn-success">Internet Archive Wayback Machine</a></figcaption>
 </figure>
 
+Do you have a broken link? Try looking it up in the Internet Archive!
+
 ## National Web Archives
 
 {% capture loc %}Library of Congress: "Web content changes all the time. If we don't save that content before it disappears, a major part of our cultural history will be lost."{% endcapture %}
