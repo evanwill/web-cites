@@ -3,8 +3,6 @@ title: Perma.cc
 nav: true
 ---
 
-# Perma.cc
-
 Developed and maintained by the [Harvard Library Innovation Lab](http://lil.law.harvard.edu/) at the Harvard Law School Library, [Perma.cc](https://perma.cc/) is a web archive specifically designed for preserving sources cited in publications and research.
 
 {% include figure.html img="permacc-logo.png" alt="Perma.cc logo" %}

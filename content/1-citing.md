@@ -1,10 +1,8 @@
 ---
-title: Citing
-nav: true
+title: Web Archive Citations
+nav: Citing
 lazyload: true
 ---
-
-# Web Archive Citations
 
 Using web archive links in your citations helps ensure the evidence you reference does not disappear, maintaining the integrity of your scholarship *and* contributing important resources to web archives.
 

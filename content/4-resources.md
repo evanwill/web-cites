@@ -4,8 +4,6 @@ nav: true
 lazyload: true
 ---
 
-# Resources
-
 {% capture loc %}Library of Congress: "Web content changes all the time. If we don't save that content before it disappears, a major part of our cultural history will be lost."{% endcapture %}
 {% include video-embed.html youtubeid="T0943YkhLWU" caption=loc %}
 

@@ -1,10 +1,8 @@
 ---
-title: Why?
-nav: true
-lazyload: true
+title: Introduction to Web Archiving
+nav: Why?
+description: What are web archives and why do we need them?
 ---
-
-# Introduction to Web Archiving
 
 Content on the web is in constant flux: rapidly appearing, updating, and disappearing. 
 
