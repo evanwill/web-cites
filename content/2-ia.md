@@ -31,7 +31,7 @@ However, it also invites anyone to capture individual pages for free via its [Sa
 This is a form of curation, since if real people are interested in saving the content, it probably has more value than randomly crawled links.
 Submissions are anonymous.
 
-{% include button.md text="Save Page Now" link="https://web.archive.org/save/" color="success" %}
+{% include button.html text="Save Page Now" link="https://web.archive.org/save/" color="success" %}
 
 Optionally, you can [create an Internet Archive account](https://archive.org/account/signup).
 When logged in, "Save Page Now" you will give you more advanced options, including save outlinks and screenshot.

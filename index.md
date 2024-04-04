@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default
+layout: page
 ---
 
 # Intro to Web Archiving: Fight Link Rot and Preserve Your Citations
@@ -20,4 +20,4 @@ Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub
 
 ------
 
-{% include credits.html %}
+{% include template/credits.html %}

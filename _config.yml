@@ -8,11 +8,13 @@ title: web-cites
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Font Awesome 5 free, https://fontawesome.com/icons?d=gallery&m=free
 # some options: fas fa-wrench; fas fa-cogs; fas fa-code; fas fa-chalkboard-teacher; fas fa-book-open
-title-icon: fas fa-archive
+title-icon: archive-fill
 # description and keywords for meta tags
 description: "Intro to Web Archiving: Fight Link Rot and Preserve Your Citations"
 keywords: "workshops, web archiving"
 featured-image: "/images/uidaho-workshop.jpg"
+# add search box to footer?
+search: true
 
 # author settings for cc-by, appears in the footer
 author: evan will
@@ -20,29 +22,34 @@ pub_year: 2020
 github_username: evanwill
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/web-cites"
+source-code: "https://github.com/evanwill/web-cites"
 
 # site urls
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
-url: https://evanwill.github.io
+url: 
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /web-cites
+baseurl: 
 
-# add search box to footer?
-search: true
 
-# add google analytics if desired (optional)
-# if blank, it will be ignored
-# use JEKYLL_ENV=production on build command
-google-analytics-id: 
+##########
+# ROBOTS EXCLUDE [optional!]
+#
+# set noindex to true if you do NOT want Google to index your site
+# noindex: true 
 
-# defaults (to simplify front matter)
+
+#######
+# BUILD SETTINGS [usually leave as is]
+#
+# Defaults to simplify front matter
 defaults:
   - scope:
       path: "content"
     values:
-      layout: "default"
+      layout: "section"
+# ignore stuff
+exclude: [README.md, LICENSE, assets/lib/README.md]
 # Build settings
 markdown: kramdown
