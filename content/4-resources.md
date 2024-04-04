@@ -6,32 +6,32 @@ lazyload: true
 
 # Resources
 
-<figure class="text-center my-5">
-    <iframe class="lazyload" width="560" height="315" data-src="https://www.youtube-nocookie.com/embed/T0943YkhLWU?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
-    <figcaption>Library of Congress: "Web content changes all the time. If we don't save that content before it disappears, a major part of our cultural history will be lost."</figcaption>
-</figure>
+{% capture loc %}Library of Congress: "Web content changes all the time. If we don't save that content before it disappears, a major part of our cultural history will be lost."{% endcapture %}
+{% include video-embed.html youtubeid="T0943YkhLWU" caption=loc %}
 
 ## National Web Archives
 
-- [Library of Congress](https://www.loc.gov/websites/collections/)
+- [Library of Congress](https://www.loc.gov/web-archives/collections/)
 - [US National Archives](https://www.webharvest.gov/)
 - [UK National Web Archives](http://www.nationalarchives.gov.uk/webarchive/)
-- [UK Web Archive](https://www.webarchive.org.uk/)
 - [Australian Web Archive (in TROVE)](https://webarchive.nla.gov.au/collection?q=) (successor of one of the earliest national web archives, [PANDORA](http://pandora.nla.gov.au/))
-- [International Internet Preservation Consortium (IIPC)](https://netpreserve.org/) (organization supporting collaborative efforts to improve standards, tools, and best practices for web archiving)
+- [Arquivo.pt](https://arquivo.pt/?l=en) (Portuguese web archive with unique search interface designed for research)
+- [International Internet Preservation Consortium (IIPC)](https://netpreserve.org/) (organization supporting collaborative efforts to improve standards, tools, and best practices for web archiving), see [training materials](https://netpreserve.org/web-archiving/training-materials/)
+- [Internet Archive Scholar](https://scholar.archive.org/) (full text search of research articles captured in Internet Archive)
+
+{% include video-embed.html youtubeid="ubDHY-ynWi0" caption="What is a web archive? (from UK Web Archive)" %}
 
 ## Tools 
 
+- [Archive-It](https://archive-it.org/) (platform used by organizations to create and manage web archive collections, based in Internet Archive)
+- [Conifer](https://conifer.rhizome.org/) (platform for capturing web content via surfing, formerly called Webrecorder.io, designed for more complex dynamic content)
+- [Webrecorder Tools](https://webrecorder.net/) (suite of user-driven web archiving tools)
+    - [ArchiveWeb.page](https://archiveweb.page/) (Chrome extension and app to interactively capture web archive file while you browse the web)
+    - [ReplayWeb.page](https://replayweb.page/) (tool to view web archive files in your browser)
 - [Documenting the Now](https://www.docnow.io/) (tools and community for ethical social media archiving. Also see [Social Media Archives Toolkit](https://www.lib.ncsu.edu/social-media-archives-toolkit))
-- [Conifer](https://conifer.rhizome.org/) and [Webrecorder Desktop](https://webrecorder.net/tools)  (platform for capturing web content via surfing, formerly called Webrecorder.io, designed for more complex dynamic content)
-- [ReplayWeb](https://replayweb.page/) (tool to view web archive files)
-- [WARCreate](https://warcreate.com/) (browser extension to capture pages)
-- [WAIL](https://machawk1.github.io/wail/) (personal web archiving stack for harvest and replay)
-- [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/) (tool to create social media archives)
+- [ArchiveReady](https://archiveready.com/) (evaluation tool to check how archiveable web pages are)
 - [wget for web archiving](https://evanwill.github.io/_drafts/notes/wget-archives.html) (notes about commandline tool wget for capturing sites in WARC)
-- [oldweb.today](http://oldweb.today/) (surf web archives on emulated old web browsers)
-- [Memento](http://mementoweb.org/about/) (framework for linking multiple web archives, see [timetravel](http://timetravel.mementoweb.org/about/))
-- [Robustlinks](https://robustlinks.mementoweb.org/) (spec for extending hyperlinks with builtin archive links, and Robustify tool for creating them)
+- [Archives Unleashed Project](https://archivesunleashed.org/) (project to provide toolkits and methods for scholarly research in web archives)
 
 ## Articles
 
