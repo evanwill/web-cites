@@ -14,7 +14,7 @@
     - "ratio" use Bootstrap embed ratio options "21x9", "16x9", "4x3", or "1x1" to customize the responsive aspect ratio. 16x9 is default.
 
 {%- endcomment -%}
-<div class="text-center ">
+<div class="text-center my-4">
     <figure class="figure w-{{ include.width | default: '100' }}">
         <div class="ratio ratio-{{ include.ratio | default: '16x9' }}">
             <iframe {% if page.lazyload == true %}class="lazyload" data-{% endif %}src="https://www.youtube-nocookie.com/embed/{{ include.youtubeid }}?rel=0&modestbranding=1" allowfullscreen></iframe>

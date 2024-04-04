@@ -1,6 +1,6 @@
 ---
 title: Internet Archive
-nav: true
+nav: IA
 ---
 
 Since 1996 the [Internet Archive](https://archive.org/about) has been leading the field of web archiving, developing the technical means to harvest, store, preserve, and access archived web content on a huge scale.
@@ -36,4 +36,4 @@ When logged in, "Save Page Now" you will give you more advanced options, includi
 If you select the option "Save also in my web archive", the capture will appear in your account's "web archive" list, giving you a basic way to keep track of saved items.
 
 On a larger scale, many institutions subscribe to [Archive-It](https://www.archive-it.org/) service to create, manage, and store their own web archives. 
-Internet Archive also supports a variety of initiatives to [preserve open access scholarship](https://blog.archive.org/2020/09/15/how-the-internet-archive-is-ensuring-permanent-access-to-open-access-journal-articles/).
+Internet Archive also supports a variety of initiatives to [preserve open access scholarship](https://blog.archive.org/2020/09/15/how-the-internet-archive-is-ensuring-permanent-access-to-open-access-journal-articles/)--checkout [Internet Archive Scholar](https://scholar.archive.org/) featuring full text search of archived research documents.
