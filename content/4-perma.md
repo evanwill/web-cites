@@ -7,7 +7,7 @@ Developed and maintained by the [Harvard Library Innovation Lab](http://lil.law.
 
 {% include figure.html img="permacc-logo.png" alt="Perma.cc logo" %}
 
-Unlike Internet Archive, Perma.cc does not crawl the open web, all pages stored in the archive are captured by individual users and provided with a "perma link".
+Unlike Internet Archive, Perma.cc does not crawl the open web, all pages stored in the archive are captured by individual users and provided with a short "perma link".
 Rather than being represented in a timeline of captures, each permalink has an individual page that includes the archived page, a screenshot, and metadata.
 Additionally, Perma provides users an interface to organize and annotate links you have created.
 

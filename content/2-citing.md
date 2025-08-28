@@ -6,11 +6,12 @@ lazyload: true
 
 Using web archive links in your citations helps ensure the evidence you reference does not disappear, maintaining the integrity of your scholarship *and* contributing important resources to web archives.
 
-For example, the Law Library of Congress [started using Perma.cc as of Oct 2015](https://www.digitalgov.gov/2016/04/13/law-library-of-congress-implements-solution-for-link-and-reference-rot/) (<https://perma.cc/2AXT-2QKE>).
-Citations in their documents, such as ["Regulation of Drones" (April 2016)](https://www.loc.gov/law/help/regulation-of-drones/index.php), now include archive links stored in Perma.cc like:
+For example, the Law Library of Congress [started using Perma.cc as of Oct 2015](https://perma.cc/2AXT-2QKE).
+Citations in their documents, such as ["Regulation of Drones" (April 2016)](https://web.archive.org/web/20210318022305/https://www.loc.gov/law/help/regulation-of-drones/index.php), now include archive links stored in Perma.cc like:
 
-- ICAO, Unmanned Aircraft Systems (UAS), Circular 328 AN/190 (2011), https://www.trafikstyrelsen.dk/~/media/Dokumenter/05%20Luftfart/Forum/UAS%20-%20droner/ICAO%20Circular%20328%20Unmanned%20Aircraft%20Systems%20UAS.ashx, archived at https://perma.cc/J5EM-TSAY. 
-- CASA and Remotely Piloted Aircraft, CASA, https://www.casa.gov.au/aircraft/standard-page/casa-and-remotely-piloted-aircraft (last visited Apr. 4, 2016), archived at https://perma.cc/6NUC-HKK7.
+> ICAO, Unmanned Aircraft Systems (UAS), Circular 328 AN/190 (2011), https://www.trafikstyrelsen.dk/~/media/Dokumenter/05%20Luftfart/Forum/UAS%20-%20droner/ICAO%20Circular%20328%20Unmanned%20Aircraft%20Systems%20UAS.ashx, archived at https://perma.cc/J5EM-TSAY. 
+>
+> CASA and Remotely Piloted Aircraft, CASA, https://www.casa.gov.au/aircraft/standard-page/casa-and-remotely-piloted-aircraft (last visited Apr. 4, 2016), archived at https://perma.cc/6NUC-HKK7.
 
 ## Guidelines
 

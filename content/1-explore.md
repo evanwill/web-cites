@@ -21,8 +21,8 @@ Do you have a broken link? Try looking it up in the Internet Archive!
 {% capture loc %}Library of Congress: "Web content changes all the time. If we don't save that content before it disappears, a major part of our cultural history will be lost."{% endcapture %}
 {% include video-embed.html youtubeid="T0943YkhLWU" caption=loc %}
 
-- [Library of Congress](https://www.loc.gov/web-archives/collections/)
-- [US National Archives](https://www.webharvest.gov/)
+- [Library of Congress Web Archives](https://www.loc.gov/web-archives/collections/)
+- [US National Archives Web Harvests](https://www.webharvest.gov/)
 - [UK National Web Archives](http://www.nationalarchives.gov.uk/webarchive/)
 - [Australian Web Archive (in TROVE)](https://webarchive.nla.gov.au/collection?q=) (successor of one of the earliest national web archives, [PANDORA](http://pandora.nla.gov.au/))
 - [Arquivo.pt](https://arquivo.pt/?l=en) (Portuguese web archive with unique search interface designed for research)

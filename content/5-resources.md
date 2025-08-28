@@ -8,10 +8,10 @@ lazyload: true
 
 - [Archive-It](https://archive-it.org/) (platform used by organizations to create and manage web archive collections, based in Internet Archive)
 - [Conifer](https://conifer.rhizome.org/) (platform for capturing web content via surfing, formerly called Webrecorder.io, designed for more complex dynamic content)
-- [Webrecorder Tools](https://webrecorder.net/) (suite of user-driven web archiving tools)
+- [Webrecorder Tools](https://webrecorder.net/) (suite of web archiving tools)
     - [ArchiveWeb.page](https://archiveweb.page/) (Chrome extension and app to interactively capture web archive file while you browse the web)
     - [ReplayWeb.page](https://replayweb.page/) (tool to view web archive files in your browser)
-- [Documenting the Now](https://www.docnow.io/) (tools and community for ethical social media archiving. Also see [Social Media Archives Toolkit](https://www.lib.ncsu.edu/social-media-archives-toolkit))
+- [Documenting the Now](https://www.docnow.io/) (tools and community for ethical social media archiving)
 - [ArchiveReady](https://archiveready.com/) (evaluation tool to check how archiveable web pages are)
 - [wget for web archiving](https://evanwill.github.io/_drafts/notes/wget-archives.html) (notes about commandline tool wget for capturing sites in WARC)
 - [Archives Unleashed Project](https://archivesunleashed.org/) (project to provide toolkits and methods for scholarly research in web archives)

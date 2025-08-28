@@ -4,7 +4,7 @@ nav: IA
 ---
 
 Since 1996 the [Internet Archive](https://archive.org/about) has been leading the field of web archiving, developing the technical means to harvest, store, preserve, and access archived web content on a huge scale.
-The size of Internet Archive's holding are hard to imagine, with *hundreds of billions* of web pages captured and *over 99* petabytes of data stored.
+The size of Internet Archive's holding are hard to imagine, with *over 916 billion* web pages captured and *over 100* petabytes of data stored.
 
 {% include figure.html img="logo_wayback_210x77.png" alt="wayback machine logo" %}
 
@@ -12,9 +12,9 @@ The Internet Archive's web content is accessible via the [Wayback Machine](https
 Paste any URL into the search box to see past copies captured over time. 
 To provide authentic access to archived web content, the Wayback Machine renders the original functionality in the user's web browser with hyperlinks automatically redirected to archived sources rather than the live web.
 
-For example, browse the history of the U of I Library's website: <https://web.archive.org/web/*/www.lib.uidaho.edu>
+For example, browse the history of the U of I Library's home page: <https://web.archive.org/web/*/www.lib.uidaho.edu>
 
-Each captured site will have a timeline of years and calendar allowing you to browse its history in the archive.
+Each captured page will have a timeline of years and calendar allowing you to browse its history in the archive.
 
 Citing an archived version of a web page from the Wayback Machine is a good option, since Internet Archive is so huge and well known.
 You can copy the archive link directly from the address bar when viewing the page.
@@ -34,6 +34,14 @@ Submissions are anonymous.
 Optionally, you can [create an Internet Archive account](https://archive.org/account/signup).
 When logged in, "Save Page Now" you will give you more advanced options, including save outlinks and screenshot.
 If you select the option "Save also in my web archive", the capture will appear in your account's "web archive" list, giving you a basic way to keep track of saved items.
+
+{% capture savenow %}
+- Copy the full URL for the web page you want to save from the address bar in your browser.
+- Paste the URL into the form on [Save Page Now](https://web.archive.org/save/) and click "Save Page".
+- The IA crawler will visit the live page and attempt to capture the data, which might take some time. Once complete, a success message will appear with a link to the archived content.
+- Click the archive link to check the capture. Copy the full URL from the address bar in your browser--this is your new permanent archive link.
+{% endcapture %}
+{% include card.html text=savenow title="Archive a Page" %}
 
 On a larger scale, many institutions subscribe to [Archive-It](https://www.archive-it.org/) service to create, manage, and store their own web archives. 
 Internet Archive also supports a variety of initiatives to [preserve open access scholarship](https://blog.archive.org/2020/09/15/how-the-internet-archive-is-ensuring-permanent-access-to-open-access-journal-articles/)--checkout [Internet Archive Scholar](https://scholar.archive.org/) featuring full text search of archived research documents.

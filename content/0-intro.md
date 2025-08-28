@@ -41,4 +41,4 @@ Perma.cc provides this basic example that illustrates the idea:
 Keep in mind that some web resources are difficult to capture, will display anomalies when removed from the live web, or intentionally prevent archiving. 
 Social media streams, paywalled resources, streaming videos, and 3rd party embeds are unlikely to be correctly captured.
 Some sites add a "noarchive" metatag or "robots.txt" exclusion that explicitly ask archives to not capture their content.
-Tools such as [Conifer](https://conifer.rhizome.org/) and [Webrecorder](https://webrecorder.net/tools) can sometimes help avoid issues with this sort of archival preservation.
+Tools such as [Conifer](https://conifer.rhizome.org/) and [ArchiveWeb.page](https://webrecorder.net/archivewebpage/) can sometimes help avoid issues with this sort of archival preservation.
