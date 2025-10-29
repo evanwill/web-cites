@@ -18,6 +18,7 @@ lazyload: true
 
 ## Articles
 
+- Athena Chapekis, Samuel Bestvater, Emma Remy, and Gonzalo Rivero, "When Online Content Disappears", Pew Research Center, 2024-05-17, <https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/>
 - Jonathan Zittrain, Kendra Albert and Lawrence Lessig, "Perma: Scoping and Addressing the Problem of Link and Reference Rot in Legal Citations", Legal Information Management, Volume 14, Issue 2 (June 2014): 88-99, <http://dx.doi.org/10.1017/S1472669614000255> (archived at: <https://perma.cc/48QZ-DT6L>)
 - Martin Klein, Herbert Van de Sompel, Robert Sanderson, Harihar Shankar, Lyudmila Balakireva, Ke Zhou, and Richard Tobin, "Scholarly Context Not Found: One in Five Articles Suffers from Reference Rot", PLOS ONE 9, 12 (Dec 2014), <https://doi.org/10.1371/journal.pone.0115253>
 - Leighton Walter Kille, "The growing problem of Internet link rot and best practices for media and online publishers", Journalist's Resource, October 9, 2015, <http://journalistsresource.org/studies/society/internet/website-linking-best-practices-media-online-publishers>

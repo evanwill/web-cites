@@ -4,7 +4,7 @@ nav: IA
 ---
 
 Since 1996 the [Internet Archive](https://archive.org/about) has been leading the field of web archiving, developing the technical means to harvest, store, preserve, and access archived web content on a huge scale.
-The size of Internet Archive's holding are hard to imagine, with *over 916 billion* web pages captured and *over 100* petabytes of data stored.
+The size of Internet Archive's holding are hard to imagine, with [*over 1 trillion* web pages captured](https://blog.archive.org/trillion/) and *over 100* petabytes of data stored.
 
 {% include figure.html img="logo_wayback_210x77.png" alt="wayback machine logo" %}
 
